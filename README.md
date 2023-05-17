@@ -1,4 +1,4 @@
-# CareerDetector
+# Career Detector
 
 **Group Members:**
 
